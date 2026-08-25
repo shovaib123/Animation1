@@ -1,1 +1,0 @@
-{"name":"animov-ai-vercel-r2","version":"2.0.0","private":true,"scripts":{"dev":"vercel dev"},"dependencies":{"@aws-sdk/client-s3":"^3.879.0","@aws-sdk/s3-request-presigner":"^3.879.0"}}
